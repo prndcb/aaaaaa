@@ -1,11 +1,11 @@
 {
-  "ownerId": "TON ID",
-  "ownerTag": "TON TAG",
+  "ownerId": "1071482467938205766",
+  "ownerTag": "mzk",
 
-  "token": "TOKEN BOT",
-  "BotID": "ID BOT",
-  "version": "VERSION BOT",
-  "NomBot": "NOM DU BOT",
+  "token": "Token de ton bot",
+  "BotID": "1248195161972932668",
+  "version": "1",
+  "NomBot": "samos",
   "footer": "FOOTER",
 
   "Topgg": "Cle api pour https://top.gg",
@@ -17,8 +17,8 @@
 
   "ANTI_INSULTE" : ["putin", "fdp", "enculer", "fils de pute", "salope", "ntm", "nique ta mere", "connard", "batard", "sale noir", "baise ta mere", "mange tes morts", "ta gueule", "bâtard", "nique ta mère"],
 
-  "NomServeur": "NOM DU SERVEUR SUPPORT",
-  "Support": "LIEN D'INVITATION SANS EXPIRATION",
+  "NomServeur": "Paranoid cult",
+  "Support": "yen a pas",
   "bugReportChannelId": "ID DU SALON REPORT",
   "modlogChannelId": "ID DU SALON LOG",
   "ticketChannelId": "ID DU SALON TICKET",
