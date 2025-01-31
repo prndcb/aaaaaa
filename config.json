@@ -2,7 +2,7 @@
   "ownerId": "1071482467938205766",
   "ownerTag": "mzk",
 
-  "token": "Token de ton bot",
+  "token": "TOKEN_SECRET",
   "BotID": "1248195161972932668",
   "version": "1",
   "NomBot": "samos",
